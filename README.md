@@ -1,2 +1,0 @@
-# CEE5900_project_website
-CEE5900_project_website
